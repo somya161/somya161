@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @somya161 
+Hi, I’m Somya Agrawal
 I have completed a Bachelor of Science in Statistics and have a strong interest in the field of Data Science. I enjoy diving into data to discover trends and other valuable insights about the data. I am constantly learning and motivated to try new things.
 
 I have knowledge about Data Preprocessing, Data Cleaning, Data Analysis. I have knowledge about Numpy, Pandas, Sklearn, MatplotLib, Seaborn libraries are also used with Machine Learning Algorithms like Supervised learning, Unsupervised learning eg., Regression and classification. 
